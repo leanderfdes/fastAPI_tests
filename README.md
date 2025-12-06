@@ -109,6 +109,7 @@ Install using:
 bash
 Copy code
 pip install -r fastAPI2/requirements.txt
+
 🔮 Future Improvements
 Add database integration (PostgreSQL / MongoDB)
 
